@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "joi": "^17.12.2",
+    "nodemon": "^3.1.0"
+  }
+}

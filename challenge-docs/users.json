@@ -348,15 +348,5 @@
 		"email_status": true,
 		"active_status": true,
 		"tokens": 19
-	},
-	{
-		"id": 34,
-		"first_name": "Jatin",
-		"last_name": "a",
-		"email": "false",
-		"company_id": 5,
-		"email_status": true,
-		"active_status": true,
-		"tokens": 19
 	}
 ]
